@@ -1,0 +1,34 @@
+body{
+    border: 2px solid black;
+    text-align: center;
+    padding: 40px;
+    margin: 0px;
+    height: 100%;
+}
+#result{
+    font-size: 80px;
+    text-align: center;
+}
+.but{
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid black;
+    background-color: rgb(19, 195, 118);
+    
+    display: inline;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 20px;
+}
+.but:hover{
+    background-color: rgb(83, 199, 199);
+}
+#mySubmit{
+    border-radius: 10px;
+}
+#ext{
+    border-radius: 5px;
+    height: 20px;
+    width: 60px;
+}

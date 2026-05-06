@@ -12,14 +12,15 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #93ed86;
+    background-color: #0945c4;
     display: flex;
     justify-content: center;
     margin-top: 60px;
-    background-image: url(img/img3.jpg);
+    /*background-image: url(img/img3.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
+    */
 }
 
 .container {
